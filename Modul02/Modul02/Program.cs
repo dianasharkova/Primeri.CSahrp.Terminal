@@ -10,12 +10,18 @@ namespace Modul02
 			//Дефиниране на променливи
 			int a=0, b=0;
 			int sum = 0;
-
+			string program_name = "Modul 02 - Primeri";
+			string program_version = "1.0";
 
 			//Събиране на числа
 			a=10;
 			b = 5;
 			sum = a + b;
+
+			//За Програмата
+			Console.WriteLine (program_name);
+			Console.WriteLine ("Версия: " +program_version+"\n\n");
+
 
 			//Писане в конзола
 			Console.Write (a);
