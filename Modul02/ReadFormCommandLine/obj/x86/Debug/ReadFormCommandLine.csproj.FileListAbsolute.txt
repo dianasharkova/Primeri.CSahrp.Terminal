@@ -1,0 +1,4 @@
+C:\aula\primeri.csharp.terminal\Modul02\ReadFormCommandLine\bin\Debug\ReadFormCommandLine.exe
+C:\aula\primeri.csharp.terminal\Modul02\ReadFormCommandLine\bin\Debug\ReadFormCommandLine.pdb
+C:\aula\primeri.csharp.terminal\Modul02\ReadFormCommandLine\obj\x86\Debug\ReadFormCommandLine.exe
+C:\aula\primeri.csharp.terminal\Modul02\ReadFormCommandLine\obj\x86\Debug\ReadFormCommandLine.pdb
