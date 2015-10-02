@@ -1,9 +1,8 @@
-﻿<Properties StartupItem="ReadFormCommandLine\ReadFormCommandLine.csproj">
+﻿<Properties StartupItem="TableProject\TableProject.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ReadFormCommandLine\Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TableProject\Program.cs">
     <Files>
-      <File FileName="Modul02\Program.cs" Line="5" Column="8" />
-      <File FileName="ReadFormCommandLine\Program.cs" Line="19" Column="2" />
+      <File FileName="TableProject\Program.cs" Line="14" Column="84" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
